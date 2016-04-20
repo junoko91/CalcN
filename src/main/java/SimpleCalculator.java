@@ -30,5 +30,5 @@ public class SimpleCalculator {
 	public int getResult() {
 		return result;
 	}
-
+//askl;dfjklasdjfklasdjlfjasdkljfklasdjfklj
 }
